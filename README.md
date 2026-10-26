@@ -97,6 +97,7 @@
 | 👀 | [Campfire SMS](https://github.com/campfiresms/campfire-mcp) | mcp, sms, notifications, hosted | Hosted two-way SMS bridge: your coding agent texts you, you reply by SMS. Install via campfiresms.com. |
 | 👀 | [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) | skill, publish, static-hosting, mcp, no-account | Agent skill: publish files to a permanent deed.page URL with one curl request. No account. |
 | 👀 | [Flisk](https://github.com/flisk-sh/flisk) | scaffolding, docker-compose, tilt, local-dev, traefik | Generate and run your whole tech stack without the setup pain: one command from an empty folder to a running stack |
+| 👀 | [VibeDesk](https://github.com/fxd-gif/vibedesk) | windows, desktop, parallel-sessions, phone-approvals, mcp | The calm vibe-coding IDE for Claude Code on Windows: run several sessions at a glance, approve requests from desk or phone, live preview, git and project memory – with rain on the window and lofi in your ears. Free & open source. |
 
 ## Agent Instructions
 
